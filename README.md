@@ -17,6 +17,7 @@
 >> Removed any duplicate rows to ensure data integrity.
 > **Standardizing Formats:**
 >> Standardized string formats to lowercase for consistency across categorical columns.
+
 **3. Split the Data:**
 
 > Defined features (X) and target (y), dropping the customerID and Churn columns from features.
