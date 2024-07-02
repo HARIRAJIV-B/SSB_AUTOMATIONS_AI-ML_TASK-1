@@ -1,6 +1,7 @@
 # SSB_AUTOMATIONS_AI-ML_TASK-1
 
 **Data Collection and Preprocessing**
+
 **1. Collect a Dataset:**
 
 > Obtained the IBM Telco Customer Churn dataset from a public source.
