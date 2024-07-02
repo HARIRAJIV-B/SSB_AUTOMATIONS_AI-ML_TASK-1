@@ -16,13 +16,19 @@
 >> Filled missing values in other numeric columns with the mean.
 
 >> Filled missing values in non-numeric columns with the mode (most frequent value).
+
 > **Removing Duplicates:**
+
 >> Removed any duplicate rows to ensure data integrity.
+
 > **Standardizing Formats:**
+
 >> Standardized string formats to lowercase for consistency across categorical columns.
 
 **3. Split the Data:**
 
 > Defined features (X) and target (y), dropping the customerID and Churn columns from features.
+
 > Converted categorical variables to dummy variables (one-hot encoding).
+
 > Split the data into training and test sets using an 80-20 split ratio to prepare for model training and evaluation.
