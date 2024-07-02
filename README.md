@@ -10,8 +10,11 @@
 
 > **Handling Missing Values:**
 >> Dropped rows with missing target values (Churn).
+
 >> Converted the TotalCharges column to numeric, filling any resulting NaN values with the mean.
+
 >> Filled missing values in other numeric columns with the mean.
+
 >> Filled missing values in non-numeric columns with the mode (most frequent value).
 > **Removing Duplicates:**
 >> Removed any duplicate rows to ensure data integrity.
